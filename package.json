@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/Graphicaction/readme-generator#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "chalk": "^3.0.0",
     "inquirer": "^7.0.4",
+    "inquirer-recursive": "0.0.6",
     "js-image-generator": "^1.0.2",
     "request": "^2.88.2"
   }
