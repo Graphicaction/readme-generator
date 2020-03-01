@@ -22,9 +22,9 @@ npm i chalk
 node index
 ```
 ## Deployed Link:
-https://finch23.github.io/readme-generator/
+https://graphicaction.github.io/readme-generator/
 
-![](src/images/screen.gif "readme-generator")
+![](images/screen.gif "readme-generator")
 
 ## <a name="contributing"></a>Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Code of Conduct: Standard (Fork, Clone, Commit, Push and Create Pull requests).
