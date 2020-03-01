@@ -21,9 +21,6 @@ npm i chalk
 ```bash
 node index
 ```
-## Deployed Link:
-https://graphicaction.github.io/readme-generator/
-
 ![](images/screen.gif "readme-generator")
 
 ## <a name="contributing"></a>Contributing:
