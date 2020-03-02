@@ -15,7 +15,7 @@
 npm init
 npm i inquirer 
 npm i axios 
-npm i chalk
+npm i jest
 ```
 ## <a name="usage"></a>Usage:
 ```bash

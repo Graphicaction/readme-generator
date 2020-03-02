@@ -1,10 +1,5 @@
-
-
 const confirmAnswerValidator = input => input !== "";
-
-console.log(confirmAnswerValidator);
-
-exports.questions1 = [
+const questions1 = [
     {   type: 'input', 
         name: 'title',
         message: 'Enter title for your repository: ',
@@ -16,7 +11,7 @@ exports.questions1 = [
         message: 'Would you like to create "content table"?'
     }
 ];
-exports.questions2 = [
+const questions2 = [
     {   type: 'input', 
         name: 'usage', 
         message: 'Enter some usage information:', 
@@ -51,7 +46,9 @@ exports.questions2 = [
 
 module.exports = {
     confirmAnswerValidator,
-  };
+    questions1,
+    questions2
+};
 
 
 
