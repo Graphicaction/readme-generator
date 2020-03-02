@@ -1,9 +1,8 @@
 
 
-const confirmAnswerValidator = async (input) => {
-    if (input == "") return 'Please enter valid input: ';
-    return true;
-};
+const confirmAnswerValidator = input => input !== "";
+
+console.log(confirmAnswerValidator);
 
 exports.questions1 = [
     {   type: 'input', 
@@ -49,6 +48,10 @@ exports.questions2 = [
         default: 'node index.js' 
     },
 ];
+
+module.exports = {
+    confirmAnswerValidator,
+  };
 
 
 
