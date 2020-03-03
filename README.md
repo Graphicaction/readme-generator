@@ -1,6 +1,7 @@
 # Readme-generator
 
-![Build Status](https://img.shields.io/jenkins/s/https/builds.apache.org/job/commons-lang.svg)   ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Build Status](https://img.shields.io/badge/build-passing-green.svg)  
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Table of contents:
 -   [ Description ](#description)
 -   [ Installation ](#installation)
