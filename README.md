@@ -33,4 +33,4 @@ npm run test
 ## <a name="license"></a>License:
  <i>MIT Copyright (c). All rights reserved.</i>
 
-<img src='https://avatars0.githubusercontent.com/u/28842469?v=4' height='50' width='50' style="border-radius: 50%;"/>
+<img src='https://avatars0.githubusercontent.com/u/28842469?v=4' height='50' width='50' style="border-radius: 50% !important;"/>
