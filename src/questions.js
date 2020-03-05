@@ -27,10 +27,10 @@ const questions2 = [
         message: 'Enter installation details:', 
         validate: confirmAnswerValidator
     },
-    {   type: 'input', 
+    {   type: 'list', 
         name: 'license', 
         message: 'Enter license information: ', 
-        default: 'MIT Copyright (c). All rights reserved.' 
+        choices: ['MIT License', 'Apache License 2.0', 'The Unlicense', 'GNU GPL v3.0', 'Eclipse Public License 2.0']
     },
     {   type: 'input', 
         name: 'contribute', 
@@ -40,8 +40,12 @@ const questions2 = [
     {   type: 'input', 
         name: 'test', 
         message: 'Enter test applicable:', 
-        default: 'node index.js' 
+        default: 'npm run test' 
     },
+    {   type: 'input', 
+        name: 'email', 
+        message: 'Enter email id:', 
+    }
 ];
 
 module.exports = {
