@@ -23,6 +23,7 @@ npm i jest
 node index
 ```
 ![](images/screen.gif "readme-generator")
+![Screenshot](images/test.png "readme-test")
 
 ## <a name="contributing"></a>Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Code of Conduct: Standard (Fork, Clone, Commit, Push and Create Pull requests).
